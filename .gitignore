@@ -38,3 +38,7 @@ test/kstring_bench
 test/kstring_bench2
 test/kstring_test
 test/kvec_test
+
+test/kthread_test2
+
+test/prueba_hashit
